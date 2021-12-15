@@ -1,6 +1,6 @@
-# Streaming App Project
+# Movies Data Project
 
-- Streaming App created using HTML, CSS and DOM.
+- Website with movies data created using HTML, CSS and DOM.
 
 ## 📋 Requirements
 
